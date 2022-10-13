@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Merve-Simsek92/languages_card_react/static/css/main.db2e7b50.css",
-    "main.js": "/Merve-Simsek92/languages_card_react/static/js/main.0e7079de.js",
-    "static/js/787.b3bece20.chunk.js": "/Merve-Simsek92/languages_card_react/static/js/787.b3bece20.chunk.js",
-    "static/media/php.png": "/Merve-Simsek92/languages_card_react/static/media/php.c767c5711b90ad735bbf.png",
-    "static/media/python.png": "/Merve-Simsek92/languages_card_react/static/media/python.40f1d1b14bc2113b7b05.png",
-    "static/media/css.png": "/Merve-Simsek92/languages_card_react/static/media/css.616d011c7fdb34d35b95.png",
-    "static/media/javascript.png": "/Merve-Simsek92/languages_card_react/static/media/javascript.7f8751632b42a9932c15.png",
-    "static/media/react.svg": "/Merve-Simsek92/languages_card_react/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
-    "static/media/ts.png": "/Merve-Simsek92/languages_card_react/static/media/ts.1a203e65baa39b0b972d.png",
-    "static/media/java.png": "/Merve-Simsek92/languages_card_react/static/media/java.a507ef793e957ee9b476.png",
-    "static/media/cpp.png": "/Merve-Simsek92/languages_card_react/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
-    "static/media/logo.svg": "/Merve-Simsek92/languages_card_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Merve-Simsek92/languages_card_react/index.html",
-    "main.db2e7b50.css.map": "/Merve-Simsek92/languages_card_react/static/css/main.db2e7b50.css.map",
-    "main.0e7079de.js.map": "/Merve-Simsek92/languages_card_react/static/js/main.0e7079de.js.map",
-    "787.b3bece20.chunk.js.map": "/Merve-Simsek92/languages_card_react/static/js/787.b3bece20.chunk.js.map"
+    "main.css": "/languages_card_react/static/css/main.db2e7b50.css",
+    "main.js": "/languages_card_react/static/js/main.3c9e73ce.js",
+    "static/js/787.b3bece20.chunk.js": "/languages_card_react/static/js/787.b3bece20.chunk.js",
+    "static/media/php.png": "/languages_card_react/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/languages_card_react/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/css.png": "/languages_card_react/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/languages_card_react/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/languages_card_react/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/ts.png": "/languages_card_react/static/media/ts.1a203e65baa39b0b972d.png",
+    "static/media/java.png": "/languages_card_react/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/languages_card_react/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "static/media/logo.svg": "/languages_card_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/languages_card_react/index.html",
+    "main.db2e7b50.css.map": "/languages_card_react/static/css/main.db2e7b50.css.map",
+    "main.3c9e73ce.js.map": "/languages_card_react/static/js/main.3c9e73ce.js.map",
+    "787.b3bece20.chunk.js.map": "/languages_card_react/static/js/787.b3bece20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db2e7b50.css",
-    "static/js/main.0e7079de.js"
+    "static/js/main.3c9e73ce.js"
   ]
 }
